@@ -1,7 +1,7 @@
-# ⚡ Xander's Dev-Terminal v2.6.0 ⚡
+# ⚡ Dev-Terminal v2.6.0 ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Data+Science+Undergraduate;NLP+Researcher+%7C+IndoBERT;Gemini-Augmented+Developer;Jakarta+Simulation+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Data+Science+Undergraduate;NLP+Researcher+%7C+IndoBERT;AI-Augmented+Developer" alt="Typing SVG" />
 </p>
 
 ---
