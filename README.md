@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00f2ff&height=150&section=header&text=XANDER%20YOHANES%20DHARMA&fontSize=50&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=XANDER+YOHANES+DHARMA;NEURAL+ARCHITECT;DATA+SCIENTIST" alt="Typing SVG" />
 </div>
 
 <div align="center">
