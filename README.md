@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=XANDER+YOHANES+DHARMA;NEURAL+ARCHITECT;DATA+SCIENTIST" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/XANDER_YOHANES_DHARMA-333333?style=for-the-badge&labelColor=black" height="45" />
+  <br />
+  <img src="https://img.shields.io/badge/NEURAL_ARCHITECT-4C566A?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/DATA_SCIENTIST-4C566A?style=flat-square" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xanderyd&label=System%20Accesses&color=00f2ff&style=flat-square" alt="xanderyd" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=xanderyd&label=System%20Accesses&color=4C566A&style=flat-square" alt="xanderyd" />
 </div>
 
 <div align="center">
@@ -17,7 +21,6 @@
 
 <div align="center">
   <br />
-  「 <b>Neural Architect & Data Scientist</b> 」<br />
   「 <b>Augmenting Human Logic with Gemini 3.1 & Claude 4.7</b> 」
 </div>
 
@@ -35,7 +38,7 @@
       🎓 <b>Base:</b> 6th Semester Data Science @ Universitas Bunda Mulia.
     </td>
     <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api?username=xanderyd&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=xanderyd&show_icons=true&theme=nord&hide_border=true&v=3" />
     </td>
   </tr>
 </table>
@@ -56,26 +59,18 @@
 > **CPU:** Intel i5-14450HX  
 > **RAM:** 32GB DDR5 (Dual-Channel)  
 > **GPU:** NVIDIA GeForce RTX 4050  
-> **Peripherals:** High-Polling Rate Precision Sensors
-
-### 🧬 Core Logic (Tech Stack)
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-</p>
 
 ---
 
 ## 📈 Activity Logs
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanderyd&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderyd&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanderyd&theme=nord&hide_border=true&v=3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderyd&layout=compact&theme=nord&v=3" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xanderyd&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xanderyd&theme=github-compact&hide_border=true&v=3" width="100%" />
 </div>
 
 ---
