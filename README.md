@@ -22,7 +22,7 @@
 </p>
 
 > [!TIP]
-> **Hardware Specs:** Acer Nitro | 16GB DDR5 RAM | High-Polling Precision Peripherals
+> **Hardware Specs:** Intel i5-14450hx | 32GB DDR5 RAM | NVIDIA GeForce RTX 4050
 
 ---
 
