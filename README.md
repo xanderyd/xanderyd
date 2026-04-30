@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=XANDER%20YOHANES%20DHARMA&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00f2ff&height=150&section=header&text=XANDER%20YOHANES%20DHARMA&fontSize=50&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
       🎓 <b>Base:</b> 6th Semester Data Science @ Universitas Bunda Mulia.
     </td>
     <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xanderyd&repo=IndoBERT-Sentiment-Analysis&theme=tokyonight&show_owner=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=xanderyd&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -62,7 +62,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 </p>
 
@@ -71,17 +70,17 @@
 ## 📈 Activity Logs
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xanderyd&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanderyd&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderyd&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanderyd&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xanderyd&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
 
 <div align="center">
   <p><i>"The distinction between user and machine is becoming a matter of syntax."</i></p>
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=20&section=footer" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00f2ff&height=20&section=footer" />
 </div>
