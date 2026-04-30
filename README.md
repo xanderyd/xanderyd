@@ -78,7 +78,7 @@ Automated real-time visualization of big data management sets.
 ---
 
 ### 📡 Encrypted Contact
-- **LinkedIn:** [[Insert Link](https://www.linkedin.com/in/xanderyd)
+- **LinkedIn:** [(https://www.linkedin.com/in/xanderyd)]
 - **Discord:** [803088191379996692]
 
 ---
