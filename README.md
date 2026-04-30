@@ -82,5 +82,4 @@
 
 <div align="center">
   <p><i>"The distinction between user and machine is becoming a matter of syntax."</i></p>
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00ffff&height=20&section=footer" />
 </div>
