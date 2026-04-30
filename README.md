@@ -1,87 +1,87 @@
-# ⚡ Dev-Terminal v2.6.0 ⚡
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=XANDER%20YOHANES%20DHARMA&fontSize=50&animation=fadeIn" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Data+Science+Undergraduate;NLP+Researcher+%7C+IndoBERT;AI-Augmented+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xanderyd&label=System%20Accesses&color=00f2ff&style=flat-square" alt="xanderyd" />
+</div>
 
----
-
-### 🟢 System Status: [ Online ]
-- **Current Objective:** Developing a Sentiment Analysis pipeline using IndoBERT for urban mobility.
-- **Location:** Jakarta, ID 🇮🇩
-- **Augmentation:** Gemini 3.1 Pro / Claude 4.7 Opus / GPT-5.5
-
----
-
-### 🛠️ The Arsenal (Tech Stack)
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,git,linux,mysql,docker,bash,postman" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/xanderyd" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://discord.com/users/RedNatt_" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <br />
+  「 <b>Neural Architect & Data Scientist</b> 」<br />
+  「 <b>Augmenting Human Logic with Gemini 3.1 & Claude 4.7</b> 」
+</div>
+
+---
+
+## ⚡ System Overview
+
+<table>
+  <tr>
+    <td width="55%">
+      <br />
+      🧠 <b>Current Research:</b> Fine-tuning <b>IndoBERT</b> for hyper-localized sentiment analysis in Jakarta's urban transport sector.<br /><br />
+      📍 <b>Focus Area:</b> Geospatial simulations and ETL modeling for the <b>Banda Aceh</b> region.<br /><br />
+      🚀 <b>Workflow:</b> Utilizing <b>GPT-5.5</b> for rapid prototyping of complex kernel-level anti-cheat research.<br /><br />
+      🎓 <b>Base:</b> 6th Semester Data Science @ Universitas Bunda Mulia.
+    </td>
+    <td width="45%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xanderyd&repo=IndoBERT-Sentiment-Analysis&theme=tokyonight&show_owner=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Augmentation Suite & Hardware
+
+### 🤖 LLM Multi-Model Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Gemini_3.1_Pro-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_4.7_Opus-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT--5.5-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-> [!TIP]
-> **Hardware Specs:** Intel i5-14450hx | 32GB DDR5 RAM | NVIDIA GeForce RTX 4050
+### 💻 Local Processing Unit (Hardware)
+> [!IMPORTANT]
+> **CPU:** Intel i5-14450HX  
+> **RAM:** 32GB DDR5 (Dual-Channel)  
+> **GPU:** NVIDIA GeForce RTX 4050  
+> **Peripherals:** High-Polling Rate Precision Sensors
+
+### 🧬 Core Logic (Tech Stack)
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+</p>
 
 ---
 
-### 📂 Active Files (Projects)
+## 📈 Activity Logs
 
-<details>
-<summary><b>🚀 Project: IndoBERT-Sentiment-Pipeline.exe</b></summary>
-<br>
-Analyzing online motorcycle taxi service complaints to improve urban mobility feedback loops.
-- **Tools:** Python, IndoBERT, LDA.
-- **Status:** Researching Sentiment Clusters.
-</details>
-
-<details>
-<summary><b>🗺️ Project: Banda-Aceh-Geospatial-Sim.py</b></summary>
-<br>
-A high-fidelity coordinate simulation focusing on regional modeling for Banda Aceh.
-- **Focus:** Geographical Data Processing & ETL.
-- **Status:** Tuning Simulation Coordinates.
-</details>
-
-<details>
-<summary><b>📊 Project: Interactive-ETL-Dashboards.sql</b></summary>
-<br>
-Automated real-time visualization of big data management sets.
-- **Tools:** Streamlit, Flask.
-</details>
-
----
-
-### 🎮 Side Quests & Achievements
-
-| Achievement | Skill Level |
-| :--- | :--- |
-| **Tactical Shooter** (Valorant/CS2) | ▮▮▮▮▮▮▮▮▯▯ [80%] |
-| **Cybersecurity / Anti-Cheat Research** | ▮▮▮▮▮▯▯▯▯▯ [50%] |
-| **South Korean Fashion Scouting** | ▮▮▮▮▮▮▯▯▯▯ [60%] |
-| **Data Cleaning & Wrangling** | ▮▮▮▮▮▮▮▮▮▯ [95%] |
-
----
-
-### 📈 Global Ranking (Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xanderyd&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xanderyd&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderyd&layout=compact&theme=tokyonight" width="48%" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xanderyd&theme=tokyonight&column=7&no-bg=true" alt="Trophies" />
-</p>
-
----
-
-### 📡 Encrypted Contact
-- **LinkedIn:** (https://www.linkedin.com/in/xanderyd)
-- **Discord:** @RedNatt
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanderyd&theme=tokyonight&hide_border=true" width="100%" />
+</div>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
-</p>
+
+<div align="center">
+  <p><i>"The distinction between user and machine is becoming a matter of syntax."</i></p>
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=20&section=footer" />
+</div>
