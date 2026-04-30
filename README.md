@@ -1,7 +1,7 @@
 # ⚡ Xander's Dev-Terminal v2.6.0 ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Data+Science+Undergraduate;NLP+Researcher+%7C+IndoBERT;Gemini-Augmented+Developer;Banda+Aceh+Simulation+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Data+Science+Undergraduate;NLP+Researcher+%7C+IndoBERT;Gemini-Augmented+Developer;Jakarta+Simulation+Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🟢 System Status: [ Online ]
 - **Current Objective:** Developing a Sentiment Analysis pipeline using IndoBERT for urban mobility.
 - **Location:** Jakarta, ID 🇮🇩
-- **Augmentation:** Gemini 1.5 Pro / Flash
+- **Augmentation:** Gemini 3.1 Pro / Claude 4.7 Opus / GPT-5.5
 
 ---
 
@@ -78,8 +78,8 @@ Automated real-time visualization of big data management sets.
 ---
 
 ### 📡 Encrypted Contact
-- **LinkedIn:** [(https://www.linkedin.com/in/xanderyd)]
-- **Discord:** [803088191379996692]
+- **LinkedIn:** (https://www.linkedin.com/in/xanderyd)
+- **Discord:** @RedNatt
 
 ---
 <p align="center">
