@@ -24,8 +24,8 @@ Focused on AI, GPU computing, and high-performance analytical modeling.
 
 ## 📊 GitHub Analytics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanderyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderyd&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
