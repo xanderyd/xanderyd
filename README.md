@@ -1,48 +1,84 @@
 <div align="center">
 
-# 🧠 Data Analyst | Xander Yohanes Dharma
+# Xander Yohanes Dharma
 
-**Vice Chairman of QHive Data Science** | **Bachelor of Data Science @ UBM**
+`Data Analyst` • `AI Enthusiast` • `GPU Computing`
 
-Bachelor of Data Science student based in Jakarta, ID.
-Focused on AI, GPU computing, and high-performance analytical modeling.
+Bachelor of Data Science @ UBM  
+Vice Chairman of QHive Data Science
 
-![Profile Views](https://komarev.com/ghpvc/?username=xanderyd&color=00b4d8&style=flat-square&label=PROFILE+VIEWS)
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=xanderyd&style=flat-square&color=grey" />
 
-## 🛠️ Specialties
-
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,pytorch,tensorflow,sklearn,tableau" />
-
-<br/>
-
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![BI](https://img.shields.io/badge/BUSINESS_INTELLIGENCE-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+<div align="center">
 
-![Xander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanderyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderyd&layout=compact&theme=tokyonight&hide_border=true)
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,pytorch,tensorflow,sklearn,vscode,git,github" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+</div>
 
 ---
 
-## 🏗️ Core Focus
+<div align="center">
 
-**GPU Computation** | **Deep Learning** | **Neural Architectures**
-Designing deterministic simulations and high-throughput pipelines.
-Implementing NLP models like IndoBERT and LDA for large-scale analysis.
+## GitHub Analytics
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xanderyd&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xanderyd&theme=github_dark" />
+
+<br><br>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xanderyd&theme=github_dark" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=xanderyd&theme=github-dark-blue&hide_border=true&background=0D1117" />
+
+</div>
 
 ---
 
-## 📬 Contact
+<div align="center">
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xanderyd)
-[![GMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xanderyd@gmail.com)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xander.yd)
+## Current Focus
+
+Machine Learning  
+Deep Learning  
+GPU Parallel Computing  
+NLP & LLM Research  
+Data Engineering  
+
+</div>
+
+---
+
+<div align="center">
+
+## Connect
+
+<a href="https://linkedin.com/in/xanderyd">
+<img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:xanderyd@gmail.com">
+<img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/xander.yd">
+<img src="https://img.shields.io/badge/Instagram-21262d?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
