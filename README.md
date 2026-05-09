@@ -1,11 +1,13 @@
 <div align="center">
 
-# 🧠 Data Scientist | Xander Yohanes Dharma
+# 🧠 Data Analyst | Xander Yohanes Dharma
+
+**Vice Chairman of QHive Data Science** | **Bachelor of Data Science @ UBM**
 
 Bachelor of Data Science student based in Jakarta, ID.
 Focused on AI, GPU computing, and high-performance analytical modeling.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00b4d8&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=xanderyd&color=00b4d8&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
@@ -24,7 +26,7 @@ Focused on AI, GPU computing, and high-performance analytical modeling.
 
 ## 📊 GitHub Analytics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanderyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Xander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanderyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanderyd&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
@@ -39,8 +41,8 @@ Implementing NLP models like IndoBERT and LDA for large-scale analysis.
 
 ## 📬 Contact
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
-[![GMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xanderyohanes)
+[![GMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xanderyohanes@gmail.com)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xanderyd)
 
 </div>
